@@ -1,0 +1,23 @@
+Time: 332ms Passed: 18 Failed: 0
+Test Results:
+Test Passed: Value == '542 -214'
+Test Passed: Value == '1 -1'
+Test Passed: Value == '1 1'
+Test Passed: Value == '-1 -1'
+Test Passed: Value == '1 -1'
+Test Passed: Value == '1 0'
+Test Passed: Value == '0 -1'
+Test Passed: Value == '42 42'
+ Random tests
+Test Passed: Value == '5988 2970'
+Test Passed: Value == '-1405 -4409'
+Test Passed: Value == '7789 4775'
+Test Passed: Value == '5705 2608'
+Test Passed: Value == '-1888 -4981'
+Test Passed: Value == '-65 -3102'
+Test Passed: Value == '-201 -3222'
+Test Passed: Value == '3040 -9'
+Test Passed: Value == '6272 3192'
+Test Passed: Value == '3393 380'
+Completed in 4ms
+You have passed all of the tests! :)

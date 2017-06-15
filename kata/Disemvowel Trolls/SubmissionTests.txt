@@ -1,0 +1,6 @@
+Time: 439ms Passed: 3 Failed: 0
+Test Results:
+Test Passed: Value == 'Ths wbst s fr lsrs LL!'
+Test Passed: Value == 'N ffns bt,\nYr wrtng s mng th wrst \'v vr rd'
+Test Passed: Value == 'Wht r y, cmmnst?'
+You have passed all of the tests! :)
