@@ -1,0 +1,58 @@
+Time: 342ms Passed: 54 Failed: 0
+Test Results:
+ GetMiddle
+ Tests (4 of 4 Assertions)
+Completed in 6ms
+ 50 Random tests
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+ Random Testing
+Completed in 26ms
+You have passed all of the tests! :)
