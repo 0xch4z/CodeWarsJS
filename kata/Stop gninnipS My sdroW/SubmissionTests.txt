@@ -1,0 +1,10 @@
+Time: 405ms Passed: 7 Failed: 0
+Test Results:
+Test Passed: Value == 'emocleW'
+Test Passed: Value == 'Hey wollef sroirraw'
+Test Passed: Value == 'This is a test'
+Test Passed: Value == 'This is rehtona test'
+Test Passed: Value == 'You are tsomla to the last test'
+Test Passed: Value == 'Just gniddik ereht is llits one more'
+Test Passed: Value == 'ylsuoireS this is the last one'
+You have passed all of the tests! :)
