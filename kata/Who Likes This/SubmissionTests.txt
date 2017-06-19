@@ -1,0 +1,12 @@
+Time: 309ms Passed: 11 Failed: 0
+Test Results:
+ static tests
+ should return correct text (5 of 5 Assertions)
+Completed in 6ms
+ random tests
+ should return correct text for 1 name
+ should return correct text for 2 names
+ should return correct text for 3 names
+ should return correct text for 4 or more names (3 of 3 Assertions)
+Completed in 3ms
+You have passed all of the tests! :)
