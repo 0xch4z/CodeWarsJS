@@ -1,0 +1,9 @@
+Time: 296ms Passed: 13 Failed: 0
+Test Results:
+ Tests using hard-coded strings
+ Should return a correctly translated string (3 of 3 Assertions)
+Completed in 7ms
+ Tests using random strings
+ Should return a correctly translated string (10 of 10 Assertions)
+Completed in 3ms
+You have passed all of the tests! :)
