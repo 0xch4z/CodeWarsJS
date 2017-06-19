@@ -1,0 +1,13 @@
+Time: 455ms Passed: 250 Failed: 0
+Test Results:
+ Basic tests
+ should parse 6 digits colors (6 of 6 Assertions)
+ should parse 3 digits colors (6 of 6 Assertions)
+ should parse preset colors (6 of 6 Assertions)
+Completed in 25ms
+ Random tests
+ should parse 6 digits colors (42 of 42 Assertions)
+ should parse 3 digits colors (42 of 42 Assertions)
+ should parse preset colors (148 of 148 Assertions)
+Completed in 85ms
+You have passed all of the tests! :)
