@@ -1,0 +1,18 @@
+Time: 304ms Passed: 15 Failed: 0
+Test Results:
+Test Passed: Value == true
+Test Passed: Value == true
+Test Passed: Value == true
+Test Passed: Value == true
+Test Passed: Value == true
+Test Passed: Value == false
+Test Passed: Value == false
+Test Passed: Value == true
+Test Passed: Value == false
+Test Passed: Value == true
+Test Passed: Value == true
+Test Passed: Value == false
+Test Passed: Value == false
+Test Passed: Value == false
+Test Passed: Value == false
+You have passed all of the tests! :)

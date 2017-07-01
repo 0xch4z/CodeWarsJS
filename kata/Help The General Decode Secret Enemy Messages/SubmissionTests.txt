@@ -1,0 +1,35 @@
+Time: 594ms Passed: 10 Failed: 0
+Test Results:
+ Decoding secret messages ...
+Test Passed
+ Log
+The quick brown fox jumped over the lazy developer.
+Test Passed
+ Log
+The secrecy system has systematically denied
+Test Passed
+ Log
+American historians access to the records of American
+Test Passed
+ Log
+history. Of late we find ourselves relying on archives
+Test Passed
+ Log
+of the former Soviet Union in Moscow to resolve
+Test Passed
+ Log
+questions of what was going on in Washington at
+Test Passed
+ Log
+mid-century. The Venona intercepts contained
+Test Passed
+ Log
+overwhelming proof of the activities of Soviet spy
+Test Passed
+ Log
+networks in America, complete with names,
+Test Passed
+ Log
+dates, places, and deeds.
+Completed in 296ms
+You have passed all of the tests! :)
