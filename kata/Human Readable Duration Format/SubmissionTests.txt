@@ -1,0 +1,16 @@
+Time: 323ms Passed: 13 Failed: 0
+Test Results:
+Test Passed: Value == 'now'
+Test Passed: Value == '1 second'
+Test Passed: Value == '1 minute and 2 seconds'
+Test Passed: Value == '2 minutes'
+Test Passed: Value == '1 hour'
+Test Passed: Value == '1 hour, 1 minute and 2 seconds'
+Test Passed: Value == '182 days, 1 hour, 44 minutes and 40 seconds'
+Test Passed: Value == '4 years, 68 days, 3 hours and 4 minutes'
+Test Passed: Value == '6 years, 192 days, 13 hours, 3 minutes and 54 seconds'
+Test Passed: Value == '8 years, 12 days, 13 hours, 41 minutes and 1 second'
+Test Passed: Value == '7 years, 246 days, 15 hours, 32 minutes and 54 seconds'
+Test Passed: Value == '3 years, 85 days, 1 hour, 9 minutes and 26 seconds'
+Test Passed: Value == '1 year, 19 days, 18 hours, 19 minutes and 46 seconds'
+You have passed all of the tests! :)
