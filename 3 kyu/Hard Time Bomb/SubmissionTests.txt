@@ -1,0 +1,15 @@
+Time: 311ms Passed: 4 Failed: 0
+Test Results:
+ Log
+0.7024847645081282
+Cutting 0.7024847645081282.
+ When cutting the wire
+ A numeric wireCode should be specified
+ The correct wireCode should be specified:
+Completed in 2ms
+ Log
+Time is Ticking!
+Test Passed
+ When the timer expires
+ The wire should be cut
+You have passed all of the tests! :)

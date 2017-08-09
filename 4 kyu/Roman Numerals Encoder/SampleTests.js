@@ -1,0 +1,5 @@
+Test.expect(solution(1) == 'I', '1 should == "I"')
+Test.expect(solution(4) == 'IV', '4 should == "IV"')
+Test.expect(solution(1000) == 'M', '1000 should == "M"')
+Test.expect(solution(1990) == 'MCMXC', '1990 should == "MCMXC"')
+Test.expect(solution(2007) == 'MMVII', '2007 should == "MMVII"')

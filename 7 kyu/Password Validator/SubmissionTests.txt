@@ -1,0 +1,15 @@
+Time: 353ms Passed: 157 Failed: 0
+Test Results:
+ Password validator
+ Basic tests (7 of 7 Assertions)
+Completed in 7ms
+ Random tests
+ Random tests too short (50 of 50 Assertions)
+Completed in 5ms
+ Random tests
+ Random tests shorter strings (50 of 50 Assertions)
+Completed in 4ms
+ Random tests
+ Random tests longer strings (50 of 50 Assertions)
+Completed in 19ms
+You have passed all of the tests! :)

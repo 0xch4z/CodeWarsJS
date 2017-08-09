@@ -1,0 +1,1 @@
+const password = s => /^(?=.*[A-Z])(?=.*[a-z])(?=.*\d).{8,}$/.test(s);

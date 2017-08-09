@@ -46,34 +46,24 @@ Test.assertEquals(password("!@#$%^&*()-_+={}[]|\:;?/>.<,"), false);
 
 ## Solution
 ```js
-function password(str) {
-    const chars = str.split('');
-    const upperCount = chars.filter(($0) => $0.match(/^[A-Z]*$/)).length;
-    const lowerCount = chars.filter(($0) => $0.match(/^[a-z]*$/)).length;
-    const numCount = chars.filter(($0) => $0.match(/^[0-9]*$/)).length;
-    console.log(upperCount);
-    if (upperCount >= 1 && lowerCount >= 1 && numCount >= 1 && chars.length >= 8) {
-      return true;
-    }
-    return false;
-}
+const password = s => /^(?=.*[A-Z])(?=.*[a-z])(?=.*\d).{8,}$/.test(s);
 ```
 
 ## Submission Tests
 ```
-Time: 354ms Passed: 157 Failed: 0
+Time: 353ms Passed: 157 Failed: 0
 Test Results:
  Password validator
  Basic tests (7 of 7 Assertions)
-Completed in 8ms
+Completed in 7ms
  Random tests
  Random tests too short (50 of 50 Assertions)
-Completed in 10ms
+Completed in 5ms
  Random tests
  Random tests shorter strings (50 of 50 Assertions)
-Completed in 19ms
+Completed in 4ms
  Random tests
  Random tests longer strings (50 of 50 Assertions)
-Completed in 12ms
+Completed in 19ms
 You have passed all of the tests! :)
 ```

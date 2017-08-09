@@ -6,7 +6,7 @@ const metrics = new Map([
   ['seconds', 1]
 ]);
 
-const formatDuration = ((s) => {
+const formatDuration = (s) => {
   const f = {};
   for (let [m, secs] of metrics) {
     const r = Math.floor(s / secs);
@@ -29,4 +29,4 @@ const formatDuration = ((s) => {
       return `${f[k[0]]} ${k[0]}, ${f[k[1]]} ${k[1]}, ${f[k[2]]} ${k[2]}, ${f[k[3]]} ${k[3]} and ${f[k[4]]} ${k[4]}`;
   }
   return 'now';
-});
+};
